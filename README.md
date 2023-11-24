@@ -10,6 +10,10 @@ Olá! Sou um Historiador que se apaixonou pelo mundo do Desenvolvimento Web. Com
 
 Hi, I'm a Historian who fell in love with the world of Web Development. With skills in `HTML`, `CSS`, `JavaScript`, `ReactJS` and `NodeJS`, I have worked tirelessly to improve myself, including through the Explorer and Ignite courses at Rocketseat, where I had the opportunity to learn from incredible mentors and build challenging projects. Now, I'm looking for an exciting opportunity as a Fullstack Developer, to contribute my skills and knowledge to projects that can positively impact people. Shall we build something together?
 
+<img src="https://em-content.zobj.net/source/google/385/flag-spain_1f1ea-1f1f8.png" alt="Spain's flag" width="40">
+
+Hola, soy un Historiador que se ha apasionado por el mundo del Web Development. Con habilidades en `HTML`, `CSS`, `JavaScript`, `ReactJS` y `NodeJS`, he trabajado incansablemente para mejorar, incluso a través de los cursos Explorer e Ignite en Rocketseat, donde tuve la oportunidad de aprender de mentores increíbles y construir proyectos desafiantes. Ahora, estoy buscando una oportunidad emocionante como Fullstack Developer, para contribuir con mis habilidades y conocimientos a proyectos que puedan impactar positivamente en las personas. ¿Construimos algo juntos?
+
 ## Contact me
                 
 <a href="https://www.linkedin.com/in/rafael-coelho-reis-873181204/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
