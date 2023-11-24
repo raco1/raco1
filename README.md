@@ -35,6 +35,6 @@ Hola, soy un Historiador que se ha apasionado por el mundo del Web Development. 
 
 ## GitHub Analytics
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raco1&layout=compact&langs_count=7&theme=omni"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raco1&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raco1&theme=omni" alt="stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raco1&layout=compact&langs_count=7&theme=radical"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=raco1&show_icons=true&theme=radical"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=raco1&theme=radical" alt="stats"/>
